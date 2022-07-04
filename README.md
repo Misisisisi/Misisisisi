@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 - ✨ Hi! I'm @Misisisisi
 - 🌱 I’m learning Java.
