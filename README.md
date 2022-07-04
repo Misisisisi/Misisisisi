@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - ✨ Hi! I'm @Misisisisi
+- 🌱 I’m learning Java.
 - 💻 I’m currently working on "Charity". 
-- 🌱 I’m currently learning Java.
 - 🌷 I’m looking for job as a Junior Java Developer in Cracow.
 - 📫 How to reach me: aniazajac8@gmail.com or https://www.linkedin.com/in/zajacann/
 
